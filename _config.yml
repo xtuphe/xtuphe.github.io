@@ -11,7 +11,7 @@ title:            Xtuphe
 tagline:          'A tagline'
 description:      '一个新的空空的个人地址， 没事去瞅一下我的<a href="http://www.jianshu.com/u/91199b2895fe" target="_blank">简书</a>'
 url:              http://www.jianshu.com/u/91199b2895fe
-baseurl:          /
+# baseurl:          /
 
 author:
   name:           'Xtuphe'
