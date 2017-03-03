@@ -1,26 +1,20 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
+# Site settings
+title: A blog about to learn how to build up a blog
+description: A blog about lllllllllllllllaaaaaaaaaaaaaaaaaaaaaaaaaa
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
-# Permalinks
-permalink:        pretty
-# relative_permalinks: true
+# User settings
+username: Xtuphe
+user_description: 一个很勤快的懒人。(๑•̀ㅂ•́)و✧加油
+user_title: Software Developer
+email: xtuphe@live.com
+twitter_username: lorem_ipsum
+github_username:  lorem_ipsum
+gplus_username:  lorem_ipsum
 
-# Setup
-title:            Xtuphe
-tagline:          'A tagline'
-description:      '一个新的空空的个人地址， 没事去瞅一下我的<a href="http://www.jianshu.com/u/91199b2895fe" target="_blank">简书</a>'
-url:              http://www.jianshu.com/u/91199b2895fe
-# baseurl:          /
+# Google-analytics
+google-analytics:
+  id: ""
 
-author:
-  name:           'Xtuphe'
-  url:            http://www.jianshu.com/u/91199b2895fe
-
-paginate:         2
-
-# Custom vars
-version:          0.1.0
-
-# github:
-#   repo:           https://github.com/xtuphe/xtuphe.github.io
+exclude: ['package.json', 'src' , 'node_modules']
