@@ -1,13 +1,13 @@
 # Site settings
-title: Welcome
+title: 谢嘉康
 description: 谢嘉康的简历
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: 谢嘉康
-user_description: 坐标上海, 26岁, 3年iOS开发经验, 目前就职于银科控股, 希望从事游戏相关行业
-user_title: Software Developer
+user_description: 坐标上海, 26岁, 4年iOS开发经验, 参与10余款app的开发, 熟练使用Objective-C与Swift
+user_title: iOS Developer
 email: xtuphe@live.com
 twitter_username: xtuphe
 github_username:  xtuphe
