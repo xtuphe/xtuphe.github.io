@@ -14,7 +14,7 @@ github_username:  xtuphe
 gplus_username:  xtuphe
 
 # Google-analytics
-google-analytics:
-  id: ""
+# google-analytics:
+#   id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
